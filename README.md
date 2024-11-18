@@ -61,7 +61,7 @@ docker-compose up
 
 ### 5. Access the Application
 
-- **Application URL:** [http://localhost:your_app_port](http://localhost:your_app_port)
+- **Application URL:** [http://localhost:8080](http://localhost:8080)
 - **PostgreSQL:** Connect using `localhost`, `your_user`, `your_password`, and `your_database`.
 
 ### 6. Stopping the Application
